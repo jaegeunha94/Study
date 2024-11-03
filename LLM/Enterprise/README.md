@@ -12,6 +12,7 @@
 * [Teddynote](https://www.youtube.com/watch?v=TZulvZlqaPY)
 
 # ChatGPT
+* [ChatGPT](https://chatgpt.com/?ref=glasp)
 
 ## Search GPT
 * [SearchGPT](https://www.youtube.com/watch?v=kxxy4Iwuk0g)
@@ -60,6 +61,9 @@
 # LLAMA
 * [LLama](https://namu.wiki/w/LLaMA)
 
+## 학습
+* 1조 4,000억 개의 토큰으로 학습되었다고 한다. 페이스북, 인스타그램 등 자사 패밀리앱 외에도 웹스크래핑/크롤링, 깃허브 코드, 위키피디아 텍스트, 퍼블릭 도메인 서적, LaTeX 코드로 작성된 논문, 질문질답 텍스트 등으로 학습되었다고 한다.
+
 ## 이슈
 * [오픈 워싱](https://news.hada.io/topic?id=17453)
 * [OSI](https://www.digitaltoday.co.kr/news/articleView.html?idxno=539139)
@@ -67,6 +71,7 @@
 # [Mistral AI](https://namu.wiki/w/Mistral%20AI)
 
 # [Grok](https://namu.wiki/w/Grok)
+* 일반 모드와 재미 모드가 있는데 후자를 켜면 상술했듯 유머러스한 답변이 나오게 된다. 그런데 그렇게까지 도발적이진 않다. 재미 모드를 켜도 정치, 종교와 같은 민감한 주제에선 진지해진다.
 * 과도하게 낮은 검열
   * Grok에 거의 검열이 없어 이에 대한 문제가 제기되고 있다. Grok에서는 저작권이 있는 이미지, 선정적인 이미지는 물론 실존 인물의 얼굴까지 검열 없이 생성된다. 이에 따라 가짜 뉴스를 비롯하여 여러 안전성 관련 우려가 높아지고 있다
 
