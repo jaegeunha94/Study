@@ -18,8 +18,6 @@
 * [SearchGPT](https://www.youtube.com/watch?v=kxxy4Iwuk0g)
 * [구글이 독립 웹사이트를 파괴하고 있다.](https://news.hada.io/topic?id=17530)
 
-## ChatGPT 검색 서비스 출시 | ChatGPT Search Tips 및 경쟁사 비교 (ChatGPT Search Launch | Tips & Comparison)
-
 ### 개요 (Overview)
 * ChatGPT는 기존 검색 엔진과 차별화된 AI 기반 검색 기능을 제공합니다.
 * 사용자가 질문을 입력하면 웹에서 실시간 정보를 검색하여 답변합니다.
