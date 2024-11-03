@@ -65,3 +65,18 @@
 # [Grok](https://namu.wiki/w/Grok)
 * 과도하게 낮은 검열
   * Grok에 거의 검열이 없어 이에 대한 문제가 제기되고 있다. Grok에서는 저작권이 있는 이미지, 선정적인 이미지는 물론 실존 인물의 얼굴까지 검열 없이 생성된다. 이에 따라 가짜 뉴스를 비롯하여 여러 안전성 관련 우려가 높아지고 있다
+
+# Upstage
+* Upstage는 인공지능(AI) 기술, 특히 대규모 언어 모델(LLM)과 문서 AI 분야에 특화된 국내 스타트업입니다.
+
+## OCR
+* [OCR](https://namu.wiki/w/OCR)
+
+## Document Parse
+
+## 주요 제품 및 기술
+
+### Solar LLM
+- **주요 특징**: Upstage의 주력 대규모 언어 모델로, 빠른 성능과 비용 효율성으로 주목받고 있습니다.
+- **기술적 접근**: Depth-Up Scaling (DUS) 기술을 적용하여 성능을 극대화합니다.
+- **플랫폼 통합**: Amazon SageMaker JumpStart 등 다양한 플랫폼을 통해 API로 통합 제공됩니다.
