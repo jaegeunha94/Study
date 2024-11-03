@@ -1,4 +1,9 @@
+# RAG
+* 사전에 학습되지 않은 데이터나 실시간 정보를 제공하지 못하는 LLM의 단점을 보완하기 위함
+  * Function Call도 같은 목적
+
 # [Gemini](https://namu.wiki/w/%EC%83%9D%EC%84%B1%ED%98%95%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
+
 # [Anthropic](https://namu.wiki/w/Anthropic)
 * OpenAI가 마이크로소프트의 투자를 받으며 영리화되자, 의견 충돌로 인해 차례로 퇴사한 인물들이 설립했다. 따라서 다리오 아모데이를 비롯한 창업자 전원이 OpenAI 출신이며 공익기업을 표방한다.
 * Calude-3 시리즈의 모델은 각각 Haiku[12], Sonnet[13], Opus[14]의 세 가지로 나뉜다. 출력 속도는 Haiku > Sonnet > Opus 순서이고, 출력 품질은 반대이다.
